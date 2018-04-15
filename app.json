@@ -1,0 +1,7 @@
+{
+  "name": "ScreenLib",
+  "displayName": "Screen library",
+  "expo": {
+    "sdkVersion": "26.0.0"
+  }
+}
